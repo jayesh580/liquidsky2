@@ -1,0 +1,136 @@
+.bor{
+  border: 1px solid red;
+}
+/* .container{
+position: relative; 
+width: 960px; 
+margin: 0 auto; 
+padding: 0; 
+} */
+.crd1{
+  height: 387px;
+  width:235px;
+  float: left;
+  /* border-left: 1px solid cornsilk; */
+  /* background: chocolate; */
+  background: rgba(82,136,217,.10);
+  transition: all 0.3s linear;
+}
+.crd1:hover{
+  background: #0077B3;;
+}
+
+.icns{
+height: 100px;
+width:100px;
+overflow: hidden;
+margin-left: 66px;
+/* background: rgb(255, 255, 255); */
+}
+.icns img{
+display: block;
+
+width: 100%;
+height: 100%;
+/* border-radius: 50%; */
+/* border: 1px solid red; */
+}
+.cnt{
+  margin-top: 40%;
+  height: 50%;
+  transition: margin-top 0.2s linear;
+}
+.cnt:hover{
+  margin-top: 25%;
+}
+.tx-cnt{
+padding-top: 35px;
+text-align: center;
+}
+.tx-cnt p{
+font-size: 20px;
+/* border: 1px solid red; */
+}
+
+
+
+/* .row-1{
+  height: 400px;
+} */
+.image-abt{
+  height: 400px;
+  width: 49%;
+  margin-bottom: 30px;
+  float: left;
+}
+.img-pro{
+  height: 250px;
+  width: 400px;
+  margin-left: 190px;
+  margin-top: 60px;
+}
+.img-pro img{
+  position: relative;
+  display: block;
+  margin-left: -30px;
+  margin-bottom: 23px;
+  margin-top: -30px;
+  width: 100%;
+  height: 100%;
+}
+.border{
+  border: 7px solid white;
+}
+.description-abt{
+  height: 400px;
+  width: 49%;
+  float: left;
+  font-size: 16px;
+  line-height: 29px;
+  margin-top: 30px;
+}
+.description-abt p{
+  padding-bottom: 10px;
+}
+
+
+
+/* .row-1{
+  height: 400px;
+} */
+.image-abt1{
+  height: 400px;
+  width: 30%;
+  margin-bottom: 30px;
+  float: left;
+}
+.img-pro1{
+  height: 250px;
+  width: 400px;
+  margin-left: 100px;
+  margin-top: 60px;
+}
+.img-pro1 img{
+  position: relative;
+  display: block;
+  margin-left: -30px;
+  margin-bottom: 23px;
+  margin-top: -30px;
+  width: 100%;
+  height: 100%;
+}
+.border1{
+  border: 7px solid white;
+}
+.description-abt1{
+  height: 400px;
+  width: 58%;
+  float: left;
+  font-size: 16px;
+  line-height: 29px;
+  margin-top: 30px;
+  padding-left:40px;
+}
+.description-abt1 p{
+  padding-bottom: 10px;
+}
