@@ -78,16 +78,16 @@
 }
 @keyframes animate {
     0%{
-        background-image: url(../images/resized/1.jpg);
+        background-image: url(../images/resized/3.jpg);
     }
     20%{
         background-image: url(../images/resized/2.jpg);
     }
     40%{
-        background-image: url(../images/resized/3.jpg);
+        background-image: url(../images/resized/4.jpg);
     }
     60%{
-        background-image: url(../images/resized/4.jpg);
+        background-image: url(../images/resized/1.jpg);
     }
     80%{
         background-image: url(../images/resized/5.jpg);
