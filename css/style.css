@@ -35,7 +35,16 @@
   canvas.particles-js-canvas-el1{
     margin-top: -320px;
   }
-
+  .prtcl2_abt{
+    margin-top: 0%; 
+    height: 180vh;
+    background: url(../images/part.jpg) no-repeat center center;
+  }
+  .prtcl3_abt{
+    margin-top: 0%; 
+    height: 120vh;
+    background: url(../images/part.jpg) no-repeat center center;
+  }
   .prtcl2{
     margin-top: 0%; 
     height: 100vh;
