@@ -59,7 +59,7 @@
 .banner1{
     height: 105vh;
     width: 100%;
-    background-image: url(images/5.jpg);
+    background-image: url(images/1.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -69,22 +69,22 @@
 }
 @keyframes animate {
     0%{
-        background-image: url(../images/resized/6.jpg);
+        background-image: url(../images/resized/1.jpg);
     }
     20%{
-        background-image: url(../images/resized/55.jpg);
+        background-image: url(../images/resized/2.jpg);
     }
     40%{
-        background-image: url(../images/resized/4.jpg);
+        background-image: url(../images/resized/3.jpg);
     }
     60%{
-        background-image: url(../images/resized/5.jpg);
+        background-image: url(../images/resized/4.jpg);
     }
     80%{
-        background-image: url(../images/resized/6.jpg);
+        background-image: url(../images/resized/5.jpg);
     }
     100%{
-        background-image: url(../images/resized/2.jpg);
+        background-image: url(../images/resized/6.jpg);
     }
 }
 
